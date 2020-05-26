@@ -3,4 +3,5 @@ The GreyAtom Python for Data Science program covers the essential parts of the P
 
 In this the " Student Management System" project is submitted  
 
-- Fundamentals of Python language
+- Fundamentals of Python language.
+This project is submitted by Devansh Tayal
